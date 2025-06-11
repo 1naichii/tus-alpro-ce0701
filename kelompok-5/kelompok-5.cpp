@@ -228,8 +228,6 @@ case 4:
         {"Pepsodent 150G", 15900},
         {"Charm Safe Night 35cm 12 Pads", 25000}
     };
-    
-                        
                         break;
                     default:
                         cout << "Kategori tidak valid.\n";
