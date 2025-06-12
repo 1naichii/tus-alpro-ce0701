@@ -3,9 +3,10 @@
 ## Tim Pengembang
 | No | Nama | NIM |
 |----|------|-----|
-| 1 | [Nama Anggota 1] | [NIM 1] |
-| 2 | [Nama Anggota 2] | [NIM 2] |
-| 3 | [Nama Anggota 3] | [NIM 3] |
+| 1 | Raja Malik Chaniago | 101102400030 |
+| 2 | Ardiansyah Putra | 101102400018 |
+| 3 | Victoria Helena Rice Da Silva | 101102400044 |
+| 4 | Ismail Syarif | 101102400014 |
 
 ## Deskripsi Program
 Fast Delivery adalah aplikasi console berbasis C++ untuk mengelola sistem pengiriman paket elektronik. Aplikasi ini menyediakan fitur registrasi pengguna, login, pembuatan pengiriman, tracking paket, dan manajemen data pengiriman.
