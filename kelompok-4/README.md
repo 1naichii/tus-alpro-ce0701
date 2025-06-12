@@ -3,10 +3,10 @@
 ## Tim Pengembang
 | No | Nama | NIM |
 |----|------|-----|
-| 1 | [Nama Anggota 1] | [NIM 1] |
-| 2 | [Nama Anggota 2] | [NIM 2] |
-| 3 | [Nama Anggota 3] | [NIM 3] |
-| 4 | [Nama Anggota 4] | [NIM 4] |
+| 1 | Rafi Ayfa Rusydan | 101102400032 |
+| 2 | Muhammad Zaki Baridwan | 101102400012 |
+| 3 | Najwa Nur Hafiyyani | 101102400019 |
+| 4 | Dani Prasetiyo | 101102400023 |
 
 ## Deskripsi Program
 Program ini adalah sistem pemesanan tiket kapal laut yang dibuat menggunakan bahasa pemrograman C++. Sistem ini memungkinkan pengguna untuk melakukan operasi CRUD (Create, Read, Update, Delete) terhadap data pemesanan tiket kapal beserta informasi lengkap perjalanan dan harga tiket.
