@@ -3,9 +3,10 @@
 ## Tim Pengembang
 | No | Nama | NIM |
 |----|------|-----|
-| 1 | [Nama Anggota 1] | [NIM 1] |
-| 2 | [Nama Anggota 2] | [NIM 2] |
-| 3 | [Nama Anggota 3] | [NIM 3] |
+| 1 | Seraphim Virgine Tadja | 101102400004 |
+| 2 | Praja Ghupta Vira Denta | 101102400047 |
+| 3 | Ahmad Naufal | 101102400045 |
+| 4 | Zakaria Nugraha Afandi | 101102400040 |
 
 ## Deskripsi Program
 Program ini adalah sistem kasir untuk toko retail Ketintang Mart yang dibuat menggunakan bahasa pemrograman C++. Sistem ini memungkinkan kasir untuk melakukan transaksi penjualan dengan berbagai kategori produk, mengelola keranjang belanja, dan mencetak struk pembayaran. Program dirancang menggunakan array sesuai dengan modul algoritma dan pemrograman yang diajarkan.
